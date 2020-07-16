@@ -1,9 +1,9 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.ifdouglas.com)
 
-- 🏆 World's no.1 in Task Dragging
-- ⚡️ Developer at [ifdouglas.com](https://www.ifdouglas.com) and @ZupInnovation
-- ⚡️ Traveler at [instagram.com/ifdouglas](https://www.instagram.com/ifdouglas)
-- ⚡️ Gamer at [twitch.tv/tuntz](https://www.twitch.tv/tuntz)
+🏆 World's no.1 in Task Dragging
+⚡️ Developer at [ifdouglas.com](https://www.ifdouglas.com) and @ZupInnovation
+⚡️ Traveler at [instagram.com/ifdouglas](https://www.instagram.com/ifdouglas)
+⚡️ Gamer at [twitch.tv/tuntz](https://www.twitch.tv/tuntz)
 
 <!--
 **ifdouglas/ifdouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
