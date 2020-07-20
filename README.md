@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/ifdouglas/"><img src="https://img.shields.io/badge/-ifdouglas-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-<a href="https://www.twitter.com/ifdouglas/"><img src="https://img.shields.io/badge/-ifdouglas-blue?style=flat&logo=Twitter&logoColor=white" /></a>
-<a href="https://medium.com/@tuntz"><img src="https://img.shields.io/badge/-tuntz-blue?style=flat&logo=Medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ifdouglas/"><img src="https://img.shields.io/badge/-ifdouglas-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.twitter.com/ifdouglas/"><img src="https://img.shields.io/badge/-ifdouglas-38A1F3?style=flat&logo=Twitter&logoColor=white" /></a>
+<a href="https://medium.com/@tuntz"><img src="https://img.shields.io/badge/-tuntz-66cdaa?style=flat&logo=Medium&logoColor=white" /></a>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.ifdouglas.com)
 
 🏆 Brazilian no.1 in Task Dragging
